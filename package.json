@@ -4,9 +4,9 @@
     "node-sass": "^8.0.0",
     "nodemon": "^2.0.20"
   },
-  "name": "preentrega3-tkaczyk",
+  "name": "PF-Taczyk",
   "version": "1.0.0",
-  "description": "Pre entrega numero 3 del curso fullstack de CoderHouse",
+  "description": "Trabajo final del curso fullstack de CoderHouse",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/christkaczyk/PreEntrega3-Tkaczyk.git"
+    "url": "git+https://github.com/christkaczyk/PF-Tkaczyk.git"
   },
   "author": "Chris Tkaczyk",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/christkaczyk/PreEntrega3-Tkaczyk/issues"
+    "url": "https://github.com/christkaczyk/PF-Tkaczyk.git/issues"
   },
-  "homepage": "https://github.com/christkaczyk/PreEntrega3-Tkaczyk#readme"
+  "homepage": "https://github.com/christkaczyk/PF-Tkaczyk.git#readme"
 }
